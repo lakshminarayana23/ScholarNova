@@ -52,7 +52,7 @@ const AboutUs = () => {
             <div className="about-card text-center">
               <img src={teamMember1} alt="Team Member 1" />
               <div className="team-member">
-                <h5>Santhosh Kumar CH</h5>
+                <h5>Lakshmi Narayana</h5>
                 <p>Backend</p>
                 <p>Cyber Security</p>
               </div>
@@ -62,7 +62,7 @@ const AboutUs = () => {
             <div className="about-card text-center">
               <img src={teamMember2} alt="Team Member 2" />
               <div className="team-member">
-                <h5>Raja N</h5>
+                <h5>Lakshmi Narayana</h5>
                 <p>Frontend</p>
                 <p>Cyber Security</p>
               </div>
@@ -72,7 +72,7 @@ const AboutUs = () => {
             <div className="about-card text-center">
               <img src={teamMember3} alt="Team Member 3" />
               <div className="team-member">
-                <h5>Yaswanth N</h5>
+                <h5>Lakshmi Narayana</h5>
                 <p>Database</p>
                 <p>Cyber Security</p>
               </div>

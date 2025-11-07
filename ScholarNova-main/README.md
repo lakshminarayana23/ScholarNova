@@ -1,4 +1,4 @@
-# ScholarNoYome
+# ScholarNova
 
 # Project Description
 
